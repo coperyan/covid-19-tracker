@@ -1,3 +1,3 @@
 # COVID-19 TRACKER
 
-![](COVID_19_TRACKER_SCREENSHOT.PNG)
+![](https://github.com/coperyan/covid-19-tracker/blob/main/COVID_19_TRACKER_SCREENSHOT.png)
